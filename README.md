@@ -8,6 +8,17 @@ startup-instance / shutdown-instance 파일 / svc 폴더 는  3개가 각각 1�
 
 catalina.properties 파일의 포트번호를 수정하면 됨.
 
+
+./svc1-2/   폴더의 하위에는 아래의 폴더들이 존재해야함.
+
+conf
+logs
+temp
+webapps
+work
+
+
+
 주의사항 : Port 정보 겹치지 않도록 조심.
 
 
